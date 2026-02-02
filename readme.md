@@ -2,6 +2,7 @@
 * Name: Gautam Makadia
 * Phone : +91 8511083075
 * Email: gautammakadia3002@gmail.com
+
 # Library required
 * IR Remote ESP8266 library (https://github.com/crankyoldgit/IRremoteESP8266)
 * DHT Sensor (https://github.com/adafruit/DHT-sensor-library)
